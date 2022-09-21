@@ -39,6 +39,7 @@ set(EXAMPLES
   motion_with_control
   print_joint_poses
   vacuum_object
+  pdl_comparison
 )
 
 foreach(example ${EXAMPLES})
